@@ -22,4 +22,4 @@ I devote most of my research and interest in:
 
 ## Get in Touch
 
-If you'd like to reach out, you can find me on my ![LinkedIn](https://linkedin.com/in/patrick-marrella)!
+If you'd like to reach out, you can find me on my [LinkedIn](https://linkedin.com/in/patrick-marrella)!
