@@ -1,4 +1,4 @@
-# About me 💻
+# About me! 💻⚙️
 
 ## Junior Honors Computer Science Major | Minor in Mathematics
 
