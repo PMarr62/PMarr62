@@ -1,6 +1,6 @@
 # About me! 💻⚙️
 
-## Junior Honors Computer Science Major | Minor in Mathematics
+## Senior Honors Computer Science Major | Minor in Mathematics
 
 I am passionate about learning new technologies and applying them in my work. I enjoy challenges and working towards a clean and effective solution in my daily life.
 
