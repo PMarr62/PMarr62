@@ -18,7 +18,7 @@ I devote most of my research and interest in:
 
 - Data Structure and Algorithms
 - Machine Learning and AI
-- GUI / UX Design
+- Backend Development
 
 ## Get in Touch
 
